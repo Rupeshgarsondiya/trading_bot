@@ -4,18 +4,6 @@ Author: Rupesh Garsondiya
 This is a simplified crypto trading bot built for the
 Junior Python Developer – Crypto Trading Bot assignment.
 
-It supports:
-
-✔ Market Orders
-✔ Limit Orders
-✔ TWAP (Time-Weighted Average Price) — Bonus Feature
-✔ Command-line interface
-✔ Full logging (requests, responses, errors)
-✔ Binance Futures Testnet (USDT-M Margined)
-✔ Reusable, modular Python code
-
-
-
 🚀 Features
 1. Market Orders
 python3 basic_bot.py --api-key <KEY> --api-secret <SECRET> market --symbol BTCUSDT --side BUY --qty 0.002
